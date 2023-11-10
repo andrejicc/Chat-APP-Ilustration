@@ -22,7 +22,7 @@
   font-size: 9px;
 }
 html{
-  
+  transform: scale(2);
   background-color: var(--LightGrayishViolet);
 }
 body{
@@ -43,7 +43,6 @@ body{
   background: linear-gradient(0deg, rgba(136,56,255,1) 0%, rgba(233,66,255,1) 100%);
 }
 .container{
-  transform: scaleY(0.9);
   display: flex;
   align-items: center;
   justify-content: center;
