@@ -22,7 +22,6 @@
   font-size: 9px;
 }
 html{
-  transform: scale(1.4);
   background-color: var(--LightGrayishViolet);
 }
 body{
